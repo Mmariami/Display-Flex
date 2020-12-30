@@ -1,0 +1,47 @@
+/* Header */
+.banner-img {
+    width:100%;
+}
+
+/* SECTION 1 */
+.container {
+    width: 1089px;
+    margin: 0 auto;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.par-text {
+    width: 444px;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.par-title{
+    color: black;
+    font-size: 42px;
+    font-weight: 900;
+    padding-bottom: 10px;
+}
+.button-read-more {
+    width: 184px;
+    height: 50px;
+    background-color: #5863F8;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-read{
+    color: white;
+}
+.about {
+    color: #5863F8;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+.firstline-images {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
